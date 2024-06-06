@@ -7,7 +7,7 @@ class Main {
 
     public static void main(String[] args) {
         Scanner myPrint = new Scanner(System.in);
-        System.out.println("Digite um dois numero");
+        System.out.println("Digite dois numero");
         int sumOne = myPrint.nextInt();
         int sumTwo = myPrint.nextInt();
 
